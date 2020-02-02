@@ -1,0 +1,34 @@
+  <style>
+
+body {font-family:Verdana;}
+ 
+  .tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #735F3d;
+  }
+  body{
+    background-color:#c5cae9
+  }
+  .responsive {
+  width: 50%;
+  height: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+svg {
+  display:table;
+}
+.duck {
+  position:absolute;
+  width:150px;
+  top:80px;
+  left:45%;
+  z-index:1;
+}
+ 
+  </style>
